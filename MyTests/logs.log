@@ -1,0 +1,14 @@
+DEBUG - 2021-04-02 18:34:03,550 - changed time limit from 0s to 300s
+DEBUG - 2021-04-02 18:34:03,551 - starting process
+DEBUG - 2021-04-02 18:34:03,556 - limiter started
+DEBUG - 2021-04-02 18:34:03,572 - cather started
+DEBUG - 2021-04-02 18:34:03,614 - writer started
+DEBUG - 2021-04-02 18:34:03,634 - reader started
+DEBUG - 2021-04-02 18:34:03,670 - killer started
+DEBUG - 2021-04-02 18:38:01,592 - writer is currently free
+DEBUG - 2021-04-02 18:38:01,635 - writer killed
+DEBUG - 2021-04-02 18:38:01,681 - reader killed
+DEBUG - 2021-04-02 18:38:01,686 - catcher killed
+DEBUG - 2021-04-02 18:38:01,686 - limiter killed
+DEBUG - 2021-04-02 18:38:01,702 - killed process
+DEBUG - 2021-04-02 18:38:01,702 - done in 238.15s. time limit 300s. used 79.38% of time

@@ -1,0 +1,14 @@
+{
+    "run_file": "test.cpp",
+    "output_protocol": "output_protocol.cpp",
+    "tests": [
+        {
+            "id": 0,
+            "time_limit": 15000,
+            "memory_limit": 256000,
+            "continue_if_fail": true,
+            "input_file": "tests/input1.txt",
+            "output_file": "output1.txt"
+        }
+    ]
+}
